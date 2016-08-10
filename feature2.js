@@ -1,3 +1,3 @@
-function getFeature() {
-	return true;
+function getFeature(name) {
+	return name;
 }
