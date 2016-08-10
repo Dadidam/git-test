@@ -1,0 +1,3 @@
+function getFeature() {
+	return true;
+}
