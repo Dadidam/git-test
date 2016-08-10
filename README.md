@@ -1,5 +1,5 @@
 # git-test
 
-## Examples
+## Functions
 
 ```getFeature() // => true```
