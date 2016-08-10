@@ -3,3 +3,5 @@
 ## Functions
 
 ```getFeature() // => true```
+
+What about you?
