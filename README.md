@@ -2,6 +2,4 @@
 
 ## Functions
 
-```getFeature() // => true```
-
-What about you?
+```getFeature('someName') // => 'someName'```

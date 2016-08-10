@@ -1,3 +1,5 @@
-function getFeature(name) {
+export default function getFeature(name) {
+	console.log("Name: ", name);
+	
 	return name;
 }
